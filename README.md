@@ -19,7 +19,7 @@
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-flyway-example.git
+git clone https://github.com/callicoder/chat_api.git
 ```
 
 **2. Create Mysql database**
@@ -36,7 +36,7 @@ create database chat_api
 **4. Build and run the app using maven**
 
 ```bash
-cd spring-boot-flyway-example
+cd chat_api
 mvn package
 java -jar target/flyway-demo-0.0.1-SNAPSHOT.jar
 ```
