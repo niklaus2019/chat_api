@@ -36,7 +36,7 @@ create database chat_api
 ```bash
 cd chat_api
 mvn package
-java -jar target/flyway-demo-0.0.1-SNAPSHOT.jar
+java -jar target/task7-0.0.1-SNAPSHOT.jar
 ```
 
 You can also run the app without packaging it using -
