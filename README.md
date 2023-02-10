@@ -1,6 +1,4 @@
 # chat_api
-
-# chat_api
 > #### This guide walks you through the process of installing a Spring application connected to a MySQL Databas. It uses Spring Data JPA to access the database.
 
 ## Table of Contents
